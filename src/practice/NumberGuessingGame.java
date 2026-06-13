@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class NumberGuessingGame {
 	
-	public static void numberGuessingGame(Scanner input, int level) {
+public static void numberGuessingGame(Scanner input, int level) {
 		
 		Random random = new Random();		
 		int guesses = 0;
@@ -55,8 +55,7 @@ public class NumberGuessingGame {
     	    System.out.println("The number was " + secretNumber);
     	}
        
-}
-
+	}
 	public static void main(String[] args) {
 		
 		Scanner input = new Scanner(System.in);
