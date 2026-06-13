@@ -47,13 +47,9 @@ public class GradeCalculator {
 		
 		input.close();
 		
+		//Testing by adding a comment to for the sake of Github tutorial
 		
 		
-		
-		
-		
-		
-
 	}
 
 }
